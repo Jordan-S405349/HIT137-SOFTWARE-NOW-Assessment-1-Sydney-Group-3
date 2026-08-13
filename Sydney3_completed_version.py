@@ -212,8 +212,8 @@ while True:
           # If it's not a new line add 1 to the length of current line
           current_line_len += 1
           
-        #2. Count sentences (ending with '.', ',', '!', or '?'
-        if char in '?!,.':
+        #2. Count sentences (ending with '.', '!', or '?'
+        if char in '?!.':
           sentences_count += 1
               
         #3. Checking if the length of final line is the longes
