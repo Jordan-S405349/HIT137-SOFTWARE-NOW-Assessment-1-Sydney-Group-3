@@ -26,6 +26,7 @@ Extend your program so that you also count:
 3. how many times each individual vowel appears.
 
 Task 3: Word statistics - Divya Malla
+
 Treat a word as a run of one or more letters (you may also allow an apostrophe inside a 
 word, so that we're and isn't count as single words). Anything that is not part of a 
 word (spaces, punctuation, digits, newlines) separates one word from the next.
